@@ -45,7 +45,7 @@ public class ForumUser extends User
 	
 	public void commentBelowPostOnAForum()
 	{
-		System.out.println("Napisz odpowiedü");
+		System.out.println("Napisz odpowied≈∫");
 		System.out.println("Opublikuj");
 	}
 	
@@ -57,8 +57,8 @@ public class ForumUser extends User
 		System.out.println(sex);
 		System.out.println("Wiek: " + age);
 		System.out.println(mail);
-		System.out.println("Nazwa uøytkownika: " + username);
-		System.out.println("Liczba postÛw: " + numberOfPosts);
+		System.out.println("Nazwa u≈ºytkownika: " + username);
+		System.out.println("Liczba post√≥w: " + numberOfPosts);
 		System.out.println("Liczba odpowiedzi: " + numberOfAnswers);
 		
 		if(isLogged == true)
