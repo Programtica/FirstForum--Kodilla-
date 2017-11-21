@@ -27,14 +27,14 @@ public class ForumUser extends User
 		return this.numberOfPosts;
 	}
 	
-    public int getNumberOfAnswers()
+	public int getNumberOfAnswers()
 	{
 		return this.numberOfAnswers;
 	}
 	
-    public boolean getIsLogged()
+	public boolean getIsLogged()
 	{
-        return this.isLogged;
+		return this.isLogged;
 	}
 	
 	public void publicAPostOnAForum()
