@@ -32,7 +32,7 @@ public class ForumUser extends User
 		return this.numberOfAnswers;
 	}
 	
-	public boolean getIsLogged()
+    public boolean getIsLogged()
 	{
 		return this.isLogged;
 	}
