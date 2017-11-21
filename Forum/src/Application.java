@@ -1,6 +1,6 @@
 public class Application 
 {
-	public static void main(String[] args) 
+    public static void main(String[] args) 
 	{		
 		ForumUser peter = new ForumUser("kot", 40, 15, true, 
 				"Piotr", "Nowak", "mężczyzna", 25, "piotr.nowak@wp.pl");
