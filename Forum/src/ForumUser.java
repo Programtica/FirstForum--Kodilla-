@@ -34,7 +34,7 @@ public class ForumUser extends User
 	
     public boolean getIsLogged()
 	{
-		return this.isLogged;
+        return this.isLogged;
 	}
 	
 	public void publicAPostOnAForum()
