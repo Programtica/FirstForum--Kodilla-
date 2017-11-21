@@ -27,7 +27,7 @@ public class ForumUser extends User
 		return this.numberOfPosts;
 	}
 	
-	public int getNumberOfAnswers()
+    public int getNumberOfAnswers()
 	{
 		return this.numberOfAnswers;
 	}
