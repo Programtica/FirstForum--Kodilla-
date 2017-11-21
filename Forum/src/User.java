@@ -42,16 +42,16 @@ public class User
 	
 	public void login()
 	{
-		System.out.println("Zaloguj siê");
+		System.out.println("Zaloguj siÄ™");
 	}
 	
 	public void logout()
 	{
-		System.out.println("Zosta³eœ wylogowany!");
+		System.out.println("ZostaÅ‚eÅ› wylogowany!");
 	}
 	
 	public void deleteAccount()
 	{
-		System.out.println("Usuniêcie konta");
+		System.out.println("UsuniÄ™cie konta");
 	}
 }
