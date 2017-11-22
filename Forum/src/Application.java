@@ -1,10 +1,3 @@
-/* "FIRST FORUM" - 
-   APPLICATION MADE BY KOSTEK
-   21-22 XI 2017
-   Based on exercise on: 
-   https://kodilla.com/pl/
- */
-
 public class Application 
 {
     public static void main(String[] args) 
